@@ -7,7 +7,7 @@ No game content is included. Each APK requires your own retail copy of the game.
 ## Requirements
 
 - A Meta Quest headset with Developer Mode enabled (developed and tested on Quest 3).
-- A Steam installation of Half-Life 2, on the **`steam_legacy`** branch (PatchVersion `8491853`). Other builds are refused. In Steam: *Half-Life 2 → Properties → Betas → `steam_legacy`*, then let it update.
+- A Steam installation of Half-Life 2, on the **`steam_legacy`** branch (PatchVersion `8491853`). In Steam: *Half-Life 2 → Properties → Betas → `steam_legacy`*, then let it update. This is the only build the port is written and tested against. If you have a different version, the importer will offer to launch a different build anyway once your files pass every other check. Installing other build versions is untested, reversible, and at your own risk.
 - Episode One / Episode Two, copied from that same `steam_legacy` installation, if you want to play them.
 - Free space on the headset:
 
@@ -61,7 +61,7 @@ Two ways to get them across:
 
 **From a computer.** Plug the headset in and copy the folders over MTP or adb straight into `/sdcard/SourceVRPort/common/`, then press **Re-check**. The `bin/` and `save/` subfolders are not used — skip them.
 
-Files are verified before anything is activated, and your saves and settings are kept private to each game.
+Files are verified before anything is activated, and your saves and settings are kept private to each game. Missing or damaged files are always refused; a complete copy from an unsupported Steam build is the one case you can override yourself, per game, from the same screen.
 
 ## 4. Play
 
